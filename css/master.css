@@ -1,6 +1,6 @@
 /* start variables*/
 :root{
-    --main-color:#10cab7;
+    --main-color:rgb(33, 27, 217);
 }
 
 /* end variables*/
@@ -127,7 +127,7 @@ width: 100%;
 
 /*start landing*/
 .landing{
-    background-image: url(/85838144-black-and-white-mountain-in-switzerland.webp);
+    background-image: url(/image/IMG_20221222_000003.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
